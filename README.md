@@ -18,20 +18,20 @@ You can checkout this web app at work in this link- https://activity-time-range.
 ## How it works
 Check the following screenshots that will explain various aspects of the app interface-
 1. The homepage of the web app displays the available users list in a grid system.
-<img src= "images/home.PNG" width="500" height="350" alt="Homepage" >
+<img src= "appimages/home.PNG" width="600" height="350" alt="Homepage" >
 
 2. On clicking one of the usercards, a modal will show up. It will display the time range on the current day during which the user was active. If he/she was not active during the day, then it will just show an empty message.
-<img src="images/currentdayactivity.PNG" width="500" height="350" alt="Current day active time ranges" >
-<img src="images/noactivity.PNG" width="500" height="350" alt="No available active time range message"  >
+<img src="appimages/currentdayactivity.PNG" width="600" height="350" alt="Current day active time ranges" >
+<img src="appimages/noactivity.PNG" width="600" height="350" alt="No available active time range message"  >
 
 3. The modal has two buttons on its header. The right button closes the modal and the left button is used to toggle a calendar to pick a date.
-<img src="images/showbuttons.PNG" width="500" height="350" alt="Buttons on the modal" >
+<img src="appimages/showbuttons.PNG" width="600" height="350" alt="Buttons on the modal" >
 
 4. Here's how the calendar looks like. You can click on any of the dates to check the active time ranges of that particular user on that particular date.
-<img src="images/calendar.PNG" width="500" height="350" alt="Calendar for picking up dates" >
+<img src="appimages/calendar.PNG" width="600" height="350" alt="Calendar for picking up dates" >
 
 5. You can click on the month name to select another month. Clicking on the year name will allow you to change the year. There are also two arrow buttons which can be used to go to the previous or next months.
-<img src="images/showtogglebuttons.PNG" width="500" height="350" alt="Month and year changing buttons" >
+<img src="appimages/showtogglebuttons.PNG" width="600" height="350" alt="Month and year changing buttons" >
 
 ## License
 - Copyright 2020 © Anupjyoti Kalita.
