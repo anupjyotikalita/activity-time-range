@@ -1,0 +1,338 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020 1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Sep 7 2020 6:47PM",
+					"end_time": "Sep 7 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 8 2020 4:35PM",
+					"end_time": "Sep 8 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 9 2020 10:45AM",
+					"end_time": "Sep 9 2020 2:25PM"
+				},
+				{
+					"start_time": "Sep 10 2020 11:32AM",
+					"end_time": "Sep 10 2020 1:24PM"
+				},	
+				{
+					"start_time": "Sep 9 2020 6:47PM",
+					"end_time": "Sep 9 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 10 2020 4:35PM",
+					"end_time": "Sep 10 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 6:47PM",
+					"end_time": "Sep 11 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 12 2020 4:35PM",
+					"end_time": "Sep 12 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 9:47PM",
+					"end_time": "Sep 11 2020 10:13PM"
+				}
+
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020 1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Sep 7 2020 6:47PM",
+					"end_time": "Sep 7 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 8 2020 4:35PM",
+					"end_time": "Sep 8 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 9 2020 10:45AM",
+					"end_time": "Sep 9 2020 2:25PM"
+				},
+				{
+					"start_time": "Sep 10 2020 11:32AM",
+					"end_time": "Sep 10 2020 1:24PM"
+				},
+				{
+					"start_time": "Sep 9 2020 6:47PM",
+					"end_time": "Sep 9 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 10 2020 4:35PM",
+					"end_time": "Sep 10 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 6:47PM",
+					"end_time": "Sep 11 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 12 2020 4:35PM",
+					"end_time": "Sep 12 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 9:47PM",
+					"end_time": "Sep 11 2020 10:13PM"
+				}
+			]
+		},
+		{
+			"id": "W08RDSRB5",
+			"real_name": "Raheem Sterling",
+			"tz": "Europe/London",
+			"activity_periods": [{
+					"start_time": "Feb 5 2020 1:45PM",
+					"end_time": "Feb 5 2020 3:54PM"
+				},
+				{
+					"start_time": "Mar 4 2020 10:12AM",
+					"end_time": "Mar 4 2020 11:00PM"
+				},
+				{
+					"start_time": "Apr 16 2020 5:30PM",
+					"end_time": "Apr 16 2020 9:00PM"
+				},
+				{
+					"start_time": "Sep 7 2020 6:47PM",
+					"end_time": "Sep 7 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 8 2020 4:35PM",
+					"end_time": "Sep 8 2020 7:19PM"
+				},
+				
+				{
+					"start_time": "Sep 9 2020 10:45AM",
+					"end_time": "Sep 9 2020 2:25PM"
+				},
+				{
+					"start_time": "Sep 10 2020 11:32AM",
+					"end_time": "Sep 10 2020 1:24PM"
+				},
+				{
+					"start_time": "Sep 9 2020 6:47PM",
+					"end_time": "Sep 9 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 10 2020 4:35PM",
+					"end_time": "Sep 10 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 6:47PM",
+					"end_time": "Sep 11 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 12 2020 4:35PM",
+					"end_time": "Sep 12 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 9:47PM",
+					"end_time": "Sep 11 2020 10:13PM"
+				}
+			]
+		},
+		{
+			"id": "W09SETSC6",
+			"real_name": "Robert Lewandowski",
+			"tz": "Australia/Sydney",
+			"activity_periods": [{
+					"start_time": "Feb 3 2020 2:34PM",
+					"end_time": "Feb 3 2020 3:54PM"
+				},
+				{
+					"start_time": "Mar 7 2020 10:20AM",
+					"end_time": "Mar 7 2020 3:40PM"
+				},
+				{
+					"start_time": "Apr 16 2020 6:35PM",
+					"end_time": "Apr 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 16 2020 8:35PM",
+					"end_time": "Apr 16 2020 10:02PM"
+				},
+				{
+					"start_time": "Sep 7 2020 6:47PM",
+					"end_time": "Sep 7 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 8 2020 4:35PM",
+					"end_time": "Sep 8 2020 7:19PM"
+				},
+				
+				{
+					"start_time": "Sep 9 2020 10:45AM",
+					"end_time": "Sep 9 2020 2:25PM"
+				},
+				{
+					"start_time": "Sep 10 2020 11:32AM",
+					"end_time": "Sep 10 2020 1:24PM"
+				},
+				{
+					"start_time": "Sep 9 2020 6:47PM",
+					"end_time": "Sep 9 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 10 2020 4:35PM",
+					"end_time": "Sep 10 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 6:47PM",
+					"end_time": "Sep 11 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 12 2020 4:35PM",
+					"end_time": "Sep 12 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 9:47PM",
+					"end_time": "Sep 11 2020 10:13PM"
+				}
+			]
+		},
+		{
+			"id": "W00TFUTD7",
+			"real_name": "Heung Min Son",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020 1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 2 2020 10:03AM",
+					"end_time": "Mar 2 2020 3:00PM"
+				},
+				{
+					"start_time": "May 16 2020 4:33PM",
+					"end_time": "May 16 2020 7:02PM"
+				},
+				{
+					"start_time": "Sep 7 2020 6:47PM",
+					"end_time": "Sep 7 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 8 2020 4:35PM",
+					"end_time": "Sep 8 2020 7:19PM"
+				},
+				
+				{
+					"start_time": "Sep 9 2020 10:45AM",
+					"end_time": "Sep 9 2020 2:25PM"
+				},
+				{
+					"start_time": "Sep 10 2020 11:32AM",
+					"end_time": "Sep 10 2020 1:24PM"
+				},
+				{
+					"start_time": "Sep 9 2020 6:47PM",
+					"end_time": "Sep 9 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 10 2020 4:35PM",
+					"end_time": "Sep 10 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 6:47PM",
+					"end_time": "Sep 11 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 12 2020 4:35PM",
+					"end_time": "Sep 12 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 9:47PM",
+					"end_time": "Sep 11 2020 10:13PM"
+				}
+			]
+		},
+		{
+			"id": "W01UGVUE8",
+			"real_name": "Leon Goretzka",
+			"tz": "America/Florida",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020 1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 10 2020 5:11AM",
+					"end_time": "Mar 10 2020 6:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Sep 7 2020 6:47PM",
+					"end_time": "Sep 7 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 8 2020 4:35PM",
+					"end_time": "Sep 8 2020 7:19PM"
+				},
+				
+				{
+					"start_time": "Sep 9 2020 10:45AM",
+					"end_time": "Sep 9 2020 2:25PM"
+				},
+				{
+					"start_time": "Sep 10 2020 11:32AM",
+					"end_time": "Sep 10 2020 1:24PM"
+				},
+				{
+					"start_time": "Sep 9 2020 6:47PM",
+					"end_time": "Sep 9 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 10 2020 4:35PM",
+					"end_time": "Sep 10 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 6:47PM",
+					"end_time": "Sep 11 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 12 2020 4:35PM",
+					"end_time": "Sep 12 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 9:47PM",
+					"end_time": "Sep 11 2020 10:13PM"
+				}
+			]
+		}
+
+	]
+}
