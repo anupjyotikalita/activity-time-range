@@ -223,8 +223,12 @@ button:focus {
   margin: 0;
 }
 
+.spanForId{
+  display: flex;
+  justify-content: center;
+}
+
 .usernameAndIdDivInModal span {
-  margin-left: 25%;
   color: rgb(59, 59, 59);
   font-size: 14px;
 }

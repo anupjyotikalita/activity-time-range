@@ -332,6 +332,118 @@
 					"end_time": "Sep 11 2020 10:13PM"
 				}
 			]
+		},
+		
+		{
+			"id": "W02VHWVF9",
+			"real_name": "Toni Kroos",
+			"tz": "America/Florida",
+			"activity_periods": [{
+					"start_time": "Feb 2 2020 1:33PM",
+					"end_time": "Feb 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 10 2020 5:11AM",
+					"end_time": "Mar 10 2020 6:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Sep 7 2020 5:47PM",
+					"end_time": "Sep 7 2020 8:03PM"
+				},
+				{
+					"start_time": "Sep 8 2020 5:35PM",
+					"end_time": "Sep 8 2020 6:19PM"
+				},
+				
+				{
+					"start_time": "Sep 9 2020 11:45AM",
+					"end_time": "Sep 9 2020 2:25PM"
+				},
+				{
+					"start_time": "Sep 10 2020 11:20AM",
+					"end_time": "Sep 10 2020 1:24PM"
+				},
+				{
+					"start_time": "Sep 9 2020 6:47PM",
+					"end_time": "Sep 9 2020 8:03PM"
+				},
+				{
+					"start_time": "Sep 10 2020 5:35PM",
+					"end_time": "Sep 10 2020 7:50PM"
+				},
+				{
+					"start_time": "Sep 11 2020 8:35PM",
+					"end_time": "Sep 11 2020 9:00PM"
+				},
+				{
+					"start_time": "Sep 12 2020 2:35PM",
+					"end_time": "Sep 12 2020 7:30PM"
+				},
+				{
+					"start_time": "Sep 11 2020 9:47PM",
+					"end_time": "Sep 11 2020 10:13PM"
+				}
+			]
+		},
+		
+		{
+			"id": "W03WIXWH4",
+			"real_name": "Marco Reus",
+			"tz": "America/Florida",
+			"activity_periods": [{
+					"start_time": "Feb 12 2020 2:33PM",
+					"end_time": "Feb 12 2020 3:54PM"
+				},
+				{
+					"start_time": "Mar 10 2020 5:11AM",
+					"end_time": "Mar 10 2020 6:00PM"
+				},
+				{
+					"start_time": "Mar 17 2020 5:33PM",
+					"end_time": "Mar 17 2020 8:02PM"
+				},
+				{
+					"start_time": "Sep 7 2020 8:45PM",
+					"end_time": "Sep 7 2020 9:03PM"
+				},
+				{
+					"start_time": "Sep 8 2020 3:35PM",
+					"end_time": "Sep 8 2020 6:19PM"
+				},
+				
+				{
+					"start_time": "Sep 9 2020 10:50AM",
+					"end_time": "Sep 9 2020 2:12PM"
+				},
+				{
+					"start_time": "Sep 10 2020 10:30AM",
+					"end_time": "Sep 10 2020 1:24PM"
+				},
+				{
+					"start_time": "Sep 9 2020 5:47PM",
+					"end_time": "Sep 9 2020 8:16PM"
+				},
+				{
+					"start_time": "Sep 10 2020 5:35PM",
+					"end_time": "Sep 10 2020 7:29PM"
+				},
+				{
+					"start_time": "Sep 11 2020 7:25PM",
+					"end_time": "Sep 11 2020 9:12PM"
+				},
+				{
+					"start_time": "Sep 12 2020 4:35PM",
+					"end_time": "Sep 12 2020 7:19PM"
+				},
+				{
+					"start_time": "Sep 11 2020 9:47PM",
+					"end_time": "Sep 11 2020 10:48PM"
+				}
+			]
 		}
 
 	]

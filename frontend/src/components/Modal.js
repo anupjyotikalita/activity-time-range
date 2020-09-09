@@ -23,7 +23,7 @@ const Modal = (props) => {
     return (
       <div style={{textAlign: "center"}}>
         <p>There is no activity of the user on this date. Choose another date from the calendar.</p>
-        <p className="forTester">(If you are testing this app, then choose a date between September 7, 2020 to September 12, 2020. Every user has atleast one activity between these dates)</p>
+        <p className="forTester">(If you are testing this app, then choose a date between September 7, 2020 and September 12, 2020. Every user has atleast one activity per day between these dates)</p>
       </div>
     );
   };
@@ -99,7 +99,9 @@ const Modal = (props) => {
           </div>
           <div className="usernameAndIdDivInModal">
             <h2>{props.username}</h2>
-            <span>{`(${props.userId})`}</span>
+            <div className="spanForId">
+              <span>{`(${props.userId})`}</span>
+            </div>
           </div>
           <button onClick={closeModal} id="closeModalButton">
             ⨯  
