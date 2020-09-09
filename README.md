@@ -33,5 +33,9 @@ Check the following screenshots that will explain various aspects of the app int
 5. You can click on the month name to select another month. Clicking on the year name will allow you to change the year. There are also two arrow buttons which can be used to go to the previous or next months.
 <img src="appimages/showtogglebuttons.PNG" width="600" height="350" alt="Month and year changing buttons" >
 
+6. If the app encounters any error while running, it will show the following error message. In that case, try refreshing the page or open it after sometime.
+<img src="appimages/error.PNG" width="600" height="350" alt="Error Message" >
+
+
 ## License
 - Copyright 2020 © Anupjyoti Kalita.
