@@ -18,7 +18,7 @@ You can checkout this web app at work in this link- https://activity-time-range.
 ## How it works
 Check the following screenshots that will explain various aspects of the app interface-
 1. The homepage of the web app displays the available users list in a grid system.
-<img src= "appimages/home.PNG" width="600" height="350" alt="Homepage" >
+<img src= "appimages/homenew.PNG" width="600" height="350" alt="Homepage" >
 
 2. On clicking one of the usercards, a modal will show up. It will display the time range on the current day during which the user was active. If he/she was not active during the day, then it will just show an empty message.
 
