@@ -21,6 +21,8 @@ Check the following screenshots that will explain various aspects of the app int
 <img src= "appimages/home.PNG" width="600" height="350" alt="Homepage" >
 
 2. On clicking one of the usercards, a modal will show up. It will display the time range on the current day during which the user was active. If he/she was not active during the day, then it will just show an empty message.
+
+**For testing, choose a date between September 07, 2020 and September 12, 2020 as every user has atleast one active time range for these days. Every user has activities scattered in various months. Choosing a date that does not have an active time range, will just show the empty data message.**
 <img src="appimages/currentdayactivity.PNG" width="600" height="350" alt="Current day active time ranges" >
 <img src="appimages/noactivity.PNG" width="600" height="350" alt="No available active time range message"  >
 
